@@ -12,4 +12,7 @@
 
 ## ← lab_instructions.txt
 
-Start there. 
+Sam Thacker
+Prof. Oscar Marin
+COMP 484
+Homework 1
